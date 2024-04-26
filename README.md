@@ -1,5 +1,5 @@
 # m3uSave Bot
-A Telegram bot to Download and Convert m3u Links to VIDEO
+A Telegram bot to Record The Live and Convert m3u Links to VIDEO
 ---
 
 ## Variables
