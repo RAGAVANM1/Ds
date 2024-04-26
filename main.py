@@ -4,10 +4,10 @@ import time
 
 
 Bot = Client(
-    "Cartoon_India_TP_ripperbot",
-    bot_token = "",
-    api_id = ,
-    api_hash = ""
+    "Doraemon4u_bot",
+    bot_token = "7050143499:AAHGo49qqqFgsjKnjPOlwRvX8gU3YD-CPRg",
+    api_id = 27201791,
+    api_hash = "f9fb64257a2125fdc06ba2de02b8a418"
 )
 
 
