@@ -1,8 +1,8 @@
-sudo_users = []
+sudo_users = [5338416066, 829259422, -1001809809574]
 
 iptv_link = "https://gist.githubusercontent.com/kunani1/8060905c98d3df50b656318bb7a1ef2a/raw/4db598d01baf783e406b3f81c6e0cee326271949/Links.json"
 
-GROUP_TAG = "KIDS MOVIES AND EPISODES"
+GROUP_TAG = "DORAEMON4U"
 
 
 CHANNELS_TEXT = """<b>Here are the List of Channels : </b>
