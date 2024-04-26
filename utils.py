@@ -28,7 +28,7 @@ def check_user(message):
     elif user_id == 959184369:
         return 'DEV'
     else:
-        text = "<b>Not a Authorized User</b>\nMade with Love by @kids_movies_and_Episodes_founder"
+        text = "<b>Not a Authorized User</b>\nMade With Love By Doraemon From 22nd Century"
         message.reply_text(text)
         return None
 
