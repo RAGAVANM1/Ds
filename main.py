@@ -4,10 +4,10 @@ import time
 
 
 Bot = Client(
-    "Doraemon4u_bot",
-    bot_token = "7050143499:AAHGo49qqqFgsjKnjPOlwRvX8gU3YD-CPRg",
-    api_id = 27201791,
-    api_hash = "f9fb64257a2125fdc06ba2de02b8a418"
+    "Js_tata_rc_bot",
+    bot_token = "7089649472:AAGfAAF64ZcfnyrcsTCTJjEjjXvL8mVkt2o",
+    api_id = 9315174,
+    api_hash = "6bdf32d081bcf4361f0654f092efe7d7"
 )
 
 
