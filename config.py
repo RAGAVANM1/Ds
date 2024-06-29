@@ -1,6 +1,6 @@
 sudo_users = [1183057352]
 
-iptv_link = "https://gist.githubusercontent.com/kunani1/8060905c98d3df50b656318bb7a1ef2a/raw/4db598d01baf783e406b3f81c6e0cee326271949/Links.json"
+iptv_link = "https://gist.githubusercontent.com/RAGAVANM1/2d1e84d97d09d0ce289231bb315a62ba/raw/338cdac1deadcef45103cd3d2424a7095bebe7c6/Jjjj"
 
 GROUP_TAG = "DORAEMON4U"
 
